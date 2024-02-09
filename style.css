@@ -1,0 +1,23 @@
+.text{
+    text-align: center;
+    /* align-items: center; */
+}
+.lead{
+    margin-top: 5px;
+}
+.lead1{
+    margin-top: 20%;
+}
+.copyright{
+    text-align: center;
+}
+.credits{
+    text-align: center;
+}
+.smit{
+    text-decoration: none; 
+    color: black;   
+}
+.abc{
+    text-align: center;
+}
